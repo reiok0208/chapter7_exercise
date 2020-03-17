@@ -4,9 +4,6 @@
   box-sizing: border-box;
   color: #6c6b6b;
 }
-a {
-  text-decoration: none;
-}
 
 header {
   width: 100%;
@@ -19,4 +16,19 @@ header {
 header .headline{
   font-size: 30px;
   padding: 20px 0 0 20px;
+}
+
+.blog {
+	width: 840px;
+	margin: 50px auto;
+}
+
+.blog-box {
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	border-bottom: 0.1px solid #a9a9a9;
+}
+
+.blog-description {
+	font-size: 15px;
 }
